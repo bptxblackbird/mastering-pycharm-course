@@ -1,3 +1,6 @@
+# this file
+.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -105,6 +108,7 @@ ENV/
 .idea/inspectionProfiles/Project_Default.xml
 demos/projects/web_clientside/electron_test/electron-quick-start/node_modules
 .idea
+.idea/*
 extra_samples/profiling/neg.txt
 extra_samples/profiling/pos.txt
 extra_samples/profiling/stop.txt
